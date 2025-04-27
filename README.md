@@ -16,4 +16,6 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
+Gary Ong is an amazingly dedicated learner of coding.
+
 Happy Coding!
