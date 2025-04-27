@@ -1,51 +1,51 @@
 @font-face {
-    font-family: cursedTimer;
-    src: url("/fonts/CursedTimerUlil-Aznm.ttf")
+  font-family: cursedTimer;
+  src: url('/fonts/CursedTimerUlil-Aznm.ttf');
 }
 
 body {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 .container {
-    display: flex;
-    justify-content: space-around;
-    width: 500px;
-    border: 1px solid black;
-    height: 300px;
-    text-align: center;
-    background: #1B244A;
-    padding: 40px;
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  border: 1px solid black;
+  height: 300px;
+  text-align: center;
+  background: #1b244a;
+  padding: 40px;
 }
 
 .board-title {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 40px;
-    color: white;
-    margin: 0 0 20px 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 45px;
+  color: white;
+  margin: 0 0 20px 0;
 }
 
 .board-score {
-    background: #080001;
-    margin: 0;
-    font-size: 90px;
-    font-family: "cursedTimer", sans-serif;
-    color: #F94F6D;
-    padding: 5px 10px;
+  background: #080001;
+  margin: 0;
+  font-size: 90px;
+  font-family: 'cursedTimer', sans-serif;
+  color: #f94f6d;
+  padding: 5px 10px;
 }
 
 .group-btn {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 8px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
 }
 
 .single-btn {
-    border: 1px solid #9AABD8;
-    background: transparent;
-    font-family: "cursedTimer", sans-serif;
-    color: #9AABD8;
-    font-size: 15px;
-    border-radius: 5px;
-    padding: 8px;
+  border: 1px solid #9aabd8;
+  background: transparent;
+  font-family: 'cursedTimer', sans-serif;
+  color: #9aabd8;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 8px;
 }
